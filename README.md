@@ -12,4 +12,5 @@ Merhaba! Ben Mazhar Furkan, Sakarya Üniversitesi'nde Bilgisayar Mühendisliği 
 
 🤝 Benimle teknoloji, inovasyon veya eğitimle ilgili konularda bağlantı kurmaktan çekinmeyin. Birlikte daha fazlasını başarabiliriz!
 
-Bağlantı kurmak için: [(https://www.linkedin.com/in/mazhar-furkan-%C3%A7elebi-952b3225b/)]
+Bağlantı kurmak için:
+https://www.linkedin.com/in/mazhar-furkan-%C3%A7elebi-952b3225b/
