@@ -1,4 +1,5 @@
 Mazhar Furkan
+
 🚀 Bilgisayar Mühendisliği Öğrencisi | 💡 Siber Güvenlik ve Veri Bilimi Tutkunu
 
 Merhaba! Ben Mazhar Furkan, Sakarya Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Teknoloji dünyasına duyduğum ilgiyle, siber güvenlik ve veri bilimine odaklanıyorum. 💻
