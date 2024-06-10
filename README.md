@@ -1,10 +1,11 @@
 Mazhar Furkan
 
-🚀 Bilgisayar Mühendisliği Öğrencisi | 💡 Siber Güvenlik ve Veri Bilimi Tutkunu
+🚀 Bilgisayar Mühendisliği Öğrencisi
 
-Merhaba! Ben Mazhar Furkan, Sakarya Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Teknoloji dünyasına duyduğum ilgiyle, siber güvenlik ve veri bilimine odaklanıyorum. 💻
+Merhaba! Ben Mazhar Furkan, Sakarya Üniversitesi'nde Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.
 
-🌐 Programlama dilleri dünyasında gezinirken R, C++, C# ile konsol uygulamaları geliştirmenin inceliklerini öğrendim. Aynı zamanda Python ve Kali Linux konularında da kendimi geliştirdim. Ağ izleme, HTML-CSS, JavaScript, TypeScript gibi konularda bilgi ve deneyime sahibim. Angular ve React'in temel mantığını kavradım.
+🌐 Programlama dilleri dünyasında gezinirken R, C++, C# ile konsol uygulamaları geliştirmenin inceliklerini öğrendim. HTML-CSS, JavaScript , TypeScript gibi konularda bilgi sahibiyim. Angular ve
+React'in temel mantığını kavradım. Ana alanım web programlama.
 
 🌍 İngilizce hazırlık eğitimi sayesinde B2 seviyesinde İngilizce ile rahatça iletişim kurabiliyorum. Ayrıca Japonca'yı anlamak ve konuşmak konusunda yetenekliyim.
 
